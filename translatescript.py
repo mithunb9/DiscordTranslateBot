@@ -1,9 +1,3 @@
-"""
-Mithun Balasubramanian
-iiAviator
-Translator Script
-"""
-
 # Import Translator from Googletrans API
 from googletrans import Translator
 
