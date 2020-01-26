@@ -1,0 +1,1 @@
+# Simple-Discord-Translation-Bot
