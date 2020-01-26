@@ -1,9 +1,3 @@
-"""
-Mithun Balasubramanian
-iiAviator
-Bot Script
-"""
-
 # Imports
 import os 
 import discord
