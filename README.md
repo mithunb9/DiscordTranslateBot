@@ -1,3 +1,3 @@
-# Simple Discord Translation Bot
+# DiscordTranslateBot
 
-A simple Discord Translation bot that is built using discord.py and the Google Translate API. 
+A simple discord translation bot that is built using discord.py and the Google Translate API. 
